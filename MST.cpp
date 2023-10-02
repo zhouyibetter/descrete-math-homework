@@ -1,9 +1,3 @@
-/* U202241897
- * 计科223
- * 周溢权
- * 最小生成树
- */
-
 #include <iostream>
 #include <map>
 #include <unordered_map>
